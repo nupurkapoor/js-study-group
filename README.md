@@ -1,8 +1,7 @@
 JavaScript Study Group
 ======================
 
-The slides from the original presentation can be found [here](http://womenwhocodedc.com/intro-to-git/). The file with startup instructions can be found [here](http://womenwhocodedc.com/intro-to-git/intro-to-git.pdf).
-
+The slides from the original presentation can be found [here](http://nupurkapoor.github.io/js-study-group).
 # To Edit
 [x] Change all terminal commands to lowercase
 [x] Printables should have resources/link to slides
